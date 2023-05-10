@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-thewatchspot/",
+    "build": "vite build --base=/html_86_Fatiuk/",
     "preview": "vite preview"
   },
   "devDependencies": {
